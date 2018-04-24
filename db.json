@@ -1,0 +1,61 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Sabão Liquido",
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "produto": "Sabão em Pó",
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "produto": "Bolacha",
+      "categoria": 2
+    },
+    {
+      "id": 4,
+      "produto": "Detergente",
+      "categoria": "1"
+    },
+    {
+      "produto": "Carteira",
+      "categoria": "5",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "produto": "TV Led 52",
+      "categoria": "4"
+    },
+    {
+      "produto": "Garrafa",
+      "categoria": "3",
+      "id": 7
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Limpeza"
+    },
+    {
+      "id": 2,
+      "categoria": "Alimentos"
+    },
+    {
+      "id": 3,
+      "categoria": "Utilidades"
+    },
+    {
+      "categoria": "Eletro",
+      "id": 4
+    },
+    {
+      "categoria": "Bazar",
+      "id": 5
+    }
+  ]
+}
